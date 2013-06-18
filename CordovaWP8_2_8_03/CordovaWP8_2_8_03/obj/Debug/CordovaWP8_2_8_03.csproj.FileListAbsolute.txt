@@ -1,0 +1,17 @@
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\Bin\Debug\ApplicationIcon.png
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\Bin\Debug\Background.png
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\Bin\Debug\CordovaWP8_2_8_03.dll
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\Bin\Debug\CordovaWP8_2_8_03.pdb
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\Bin\Debug\AppManifest.xaml
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\App.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\cordovalib\CordovaView.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\MainPage.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\Plugins\UI\AudioRecorder.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\Plugins\UI\ImageCapture.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\Plugins\UI\NotificationBox.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\Plugins\UI\VideoRecorder.g.cs
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\CordovaWP8_2_8_03.g.resources
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\CordovaWP8_2_8_03.dll
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\CordovaWP8_2_8_03.pdb
+c:\users\loiane\documents\visual studio 2012\Projects\CordovaWP8_2_8_03\CordovaWP8_2_8_03\obj\Debug\XapCacheFile.xml
